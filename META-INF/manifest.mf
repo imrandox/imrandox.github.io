@@ -1,0 +1,97 @@
+Manifest-Version: 1.0
+
+Name: index.html
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: pCT8/iyq30iy+ohZ3Ae5TA==
+SHA1-Digest: gYXqAKEtSzta3nVB721z6iMdff8=
+SHA256-Digest: mCdN4LMewRbktCzDIVbhxF+zVypvPh2uaB84YhxeNEQ=
+
+Name: manifest.webapp
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: UwfIwHftxNlMW92kjHEyvg==
+SHA1-Digest: 3jYSVgDEqzETQHxD8XKLimuZVko=
+SHA256-Digest: np/nXHIvXJbxu+BIqr3211IcoYPwPl4NDCb+54M+9x8=
+
+Name: style.css
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: XpHr0hhpP3hDKIILyN0Esw==
+SHA1-Digest: 4PKWlXy0lvezsfW7gQKN0+VJpmY=
+SHA256-Digest: G3m/+60F7gaf7ZaqMgIg9zT8Mk3D3nlt9clGNe8NdNc=
+
+Name: icons/browser.png
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: yyn2gFKaoKfXaRnQViFiYw==
+SHA1-Digest: 2emLA5mkMKSbwnUtvpCy4hggKf4=
+SHA256-Digest: WtO7FZGiHLBAhJTMp5kfDBq2BU+NqNPJr/q5Tinc0RI=
+
+Name: icons/control.png
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: o+icN5X2CPAbZeNdP0sIPQ==
+SHA1-Digest: x/7Y1jLpo2zo8v8TXyG4U/cEZvY=
+SHA256-Digest: JVpxo1i5B/po0AkP38zkvCaKsw49n6aUGQl34popPZY=
+
+Name: icons/editor.png
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: rTNntWtK44msFkKTJSlz5g==
+SHA1-Digest: u1uBixBXabvMB2MLkRb5DV8HMT0=
+SHA256-Digest: TnwFInVw0Te4hR7IWKnvPZJVjpy7Un+3rWerpYwiGWs=
+
+Name: icons/facebook.png
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: /R9+PQzfPTZduvO7jPx0yQ==
+SHA1-Digest: ByQC2Cqz85fwp/t245g2BjPH/ME=
+SHA256-Digest: ASoOkaYXuOphuFB6fXWoKNa4iX7XvmvsW6gYh9htz90=
+
+Name: icons/google.png
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: VTnmR0p2NTPknJGtCU++sQ==
+SHA1-Digest: CXM0HissBKwXaZvASqmFYnpQPwk=
+SHA256-Digest: r/lVReBt5h8Rq8jncGcYY/v9tISvONJ9tPLR0oJcjPg=
+
+Name: icons/icon.png
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: 23udDIbx7sTBAQcJZnaQcQ==
+SHA1-Digest: siRUGl66Du/IZBBQui1aFKD7ijs=
+SHA256-Digest: 74Q8cjuBnsTzAND3/4h8aIbAhh+0RDoDsvcmeyGa8HE=
+
+Name: icons/kai.png
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: VbDOCbnnwfRvx5ZH/8Km9w==
+SHA1-Digest: gAg99x50cSBJctiSg4mKtQwQnW8=
+SHA256-Digest: 1z5UBcp3Sj3zMY7EmM/bM5T9eekeMuwFPQL1iz1Qv9U=
+
+Name: icons/medex.jpg
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: k4BKA9TF5Vs3LmpTJwJU3w==
+SHA1-Digest: kDrSBdf2SWDu4CNjSb+5Z/Ln2rw=
+SHA256-Digest: pY20X5OjWKb5wpv0u8XFulPdbeomuMMuU13HOvf3OEc=
+
+Name: icons/weather.jpg
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: 2SsrExs2EgAGo7E1jP7vAQ==
+SHA1-Digest: lzYO+qh9GxNhEE+84uH8THZpXF0=
+SHA256-Digest: Ot9WysYyrH9Xo8NrIO9aAEoMmghmgg2OKEderMWw84g=
+
+Name: icons/wifi.jpg
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: QXqrXciNKshHh8aVxBlD+w==
+SHA1-Digest: 2TwCHFAlHvBgmvVwt+oIbK2XowA=
+SHA256-Digest: T3su7hmNDs9vUahi1ySlk7QX+pnAYvykjqTC6NtLBJg=
+
+Name: icons/youtube.png
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: ljz8qk1G49K9aR2gsQyfZQ==
+SHA1-Digest: UwVhVyOiQCEyTcbRJ5Wxb+O3pSc=
+SHA256-Digest: RtNBe5GR5rSx5ct1/WTDUx/c3Soro5pAn/9AuuKc5Ek=
+
+Name: app.js
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: BOvaoO7BMSNQbrsIlqEoJQ==
+SHA1-Digest: KDl7JVw7q+95JgmNFZFtzLsPluI=
+SHA256-Digest: /CoQHYgGcaxPTysznq970FBTKJgZu1Z+LOsBuzbe3Ng=
+
+Name: META-INF/ids.json
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: WFr+UBPa6gNiqDxw9cCX1w==
+SHA1-Digest: vsrNKMirn26ZuFYLWEAo8cAehoY=
+SHA256-Digest: fgCcPTi3voq8kLjAmTus3zqMV+CACPPGj9xbhjhcGPo=

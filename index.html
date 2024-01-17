@@ -1,0 +1,82 @@
+<!DOCTYPE HTML>
+<html lang="en-US">
+<head>
+	<meta http-equiv="Content-Type" content="application/vnd.wap.xhtml+xml; charset=utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <script src="app.js"></script>
+	<title>Xbox</title>
+	<link href="style.css" type="text/css" rel="stylesheet">
+</head>
+<body>
+	<div id='passfield'>
+    <h1>:: Enter Command ::</h1>
+    <input type="text" id="pass">
+  </div>
+  
+  <div id="main" style="display:none">
+    <div id="appbody">
+      <div id="barz" class="selct"></div>
+      <div id="bodyz">
+      <div class="item" data-fn="editor"><img src="icons/editor.png"> <name>Editor</name></div>
+      <div class="item" data-fn="browxer"><img src="icons/browser.png"> <name>Browser</name></div>
+      <div class="item" data-fn="appEx"><img style="border-radius: 0%;" src="icons/kai.png"> <name>App Extractor</name></div>
+      <div class="item" data-fn="fileMan"><img src="icons/wifi.jpg"> <name>Wifi Manage</name></div>
+      <div class="item" data-fn="contrl"><img src="icons/control.png"> <name>Control Panel</name></div>
+      </div>
+      <div id="footerz">
+      <div id="footerbodyz">
+        <div class="center">OK</div>
+        <div class="right">Exit</div>
+      </div>
+    </div>
+    </div>
+    <input type="file" style="display:none" id="filex" required>
+    
+    <div class="code-box" style="display:none">
+      <textarea id="coder">//HTML, CSS and JavaScript
+//Edit here...
+</textarea>
+      <div id="loger" style="display:none">
+        <div id="log"></div>
+      </div>
+    </div>
+    
+    <!--KaiAppExtractor-->
+    <div id="appEx" style="display:none">
+    <div id="root">
+      <div id="barx" class="selct"></div>
+      <ul></ul>
+    </div>
+    
+    <div id="footer">
+      <div id="footerbody">
+        <div class="left">Open</div>
+        <div class="center">Extract</div>
+        <div class="right">Back</div>
+      </div>
+    </div>
+    </div>
+    <!--Ending-->
+    
+    <div id="loading" style="display:none">
+      <div id="pan">
+        <div id="hover">
+          <div id="filler" class="lft"></div>
+        </div>
+      </div>
+    </div>
+    
+    <!--browser-->
+    
+    <div class="slider"><div class="break"></div></div>
+    <div id="browser">
+      <table>
+        <tr><td colspan="3"><input id="URL" class="foc" placeholder="Input type URL or search"></td></tr>
+        <tr><td><img src="icons/google.png" data-url="https://google.com" alt="Google"></td><td><img src="icons/youtube.png" data-url="https://m.youtube.com" alt="Youtube"></td><td><img src="icons/facebook.png" alt="Facebook" data-url="https://m.facebook.com/reel/"></td></tr>
+        <tr><td><img src="icons/weather.jpg" alt="Weather" data-url="https://weather.com/en-GB/weather/tenday/l/5a4b7dc721cb1c89f40d0eafe14a83ece358ae28f8d905170a2c7cc4212eb1f4"></td><td><img src="icons/medex.jpg" alt="Medex" data-url="http://v2.medex.com.bd"></td><td><img src="icons/editor.png" alt="Editor" data-url="https://xtgem.com/autologin/f7284794097bfbc3ab544b6d52543086/cG9wYmQud2FwZ2VtLmNvbQ=="></td></tr>
+      </table>
+    </div>
+    <div id="container"></div>
+  </div>
+<script class="sc"></script></body>
+</html>
